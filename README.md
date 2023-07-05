@@ -43,5 +43,6 @@ Multiple graphs and charts has been used for creative and user friendly presenta
 
 ![image](https://github.com/DAKSH1-HUB/Dashboard_CRCS/assets/81084807/3fb48483-026a-40b5-a694-9543ad7880a6)
 <br/>
-![image](https://github.com/DAKSH1-HUB/Dashboard_CRCS/assets/81084807/f03af993-ef80-4c76-ac3f-e3985d89d83e)
+![image](https://github.com/DAKSH1-HUB/Dashboard_CRCS/assets/81084807/d278ac53-6af7-44a7-9d3a-7b44f426f7ce)
+
 
