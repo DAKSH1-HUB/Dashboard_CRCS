@@ -5,8 +5,8 @@ Dashboard for The Central Registrar for Cooperative Societies (CRCS) in India
 The Central Registrar Cooperative Societies Management Dashboard is a data visualization tool designed to provide key insights and facilitate efficient management of registered cooperative societies. The dashboard leverages a dataset, containing relevant information for each entry, such as society name, address, state, district, date of registration, area of operation, and sector type.
 
 # Objectives:
-• Enable the CRCS to monitor and analyze the performance and operations of registered cooperative societies.
-• Provide a comprehensive overview of the cooperative societies' distribution across states, districts, and sectors.
+• Enable the CRCS to monitor and analyze the performance and operations of registered cooperative societies.__
+• Provide a comprehensive overview of the cooperative societies' distribution across states, districts, and sectors.__
 • Identify trends, patterns, and potential areas for improvement within the cooperative sector.
 • Support informed decision-making and policy formulation related to cooperative societies.
 
